@@ -7,3 +7,5 @@ This repository contains the dataset of Persian tweets, fully gathered by us. It
 - 2: Angry - Furious
 - 3: Neutral - No Sentiment or emotion
 - 4: Intense Emotions (Passion), encompassing Fear, Surprise, and Love
+
+This dataset has been gathered from Persian users on X (formerly known as Twitter). The tweets are fully anonymized and we only used tweets from public accounts, not private ones. All ethical concerns and privacy issues have been addressed while gathering the dataset.
